@@ -6,7 +6,7 @@ import tarfile
 
 def make_tarfile(output_filename, source_dir):
     name = source_dir.split('/')
-    tar = tarfile.open(output_filename + ".tar.gz", "w:gz")
+    tar = tarfile.open(output_filename + ".tar.gz","w:gz")
     tar.add(source_dir, arcname=name[-1])
     tar.close()
 
