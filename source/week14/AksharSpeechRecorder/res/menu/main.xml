@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.leaveme.ssad.MainActivity" >
+
+    <item
+        android:id="@+id/action_alwaysplay"
+        android:orderInCategory="1"
+        android:showAsAction="never"
+        android:title="@string/action_alwaysplay"/>
+	<item
+        android:id="@+id/action_samplerate"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        android:title="@string/action_samplerate"/>
+    
+</menu>
