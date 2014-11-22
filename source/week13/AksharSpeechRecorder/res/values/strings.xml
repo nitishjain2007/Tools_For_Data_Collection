@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AksharRecorder</string>
+    <string name="button1">Open</string>
+    <string name="button2">Record</string>
+    <string name="button2onClick">Stop Recording</string>
+    <string name="button4">Previous</string>
+    <string name="button5">Play</string>
+    <string name="button5onClick">Stop Playing</string>
+    <string name="button6">Next</string>
+    <string name="end">end reached</string>
+    <string name="start">starting reached</string>
+    <string name="filearea">please open a file </string>
+    <string name="action_samplerate">Set Samplerate</string>
+    <string name="front_image">front page image</string>
+    <string name="action_alwaysplay">Always Play</string>
+    <string name="goto_root">..</string>
+
+</resources>

@@ -15,6 +15,10 @@
     <string name="action_samplerate">Set Samplerate</string>
     <string name="front_image">front page image</string>
     <string name="action_alwaysplay">Always Play</string>
+    <string name="action_alwaysrecord">Always Record</string>
+    <string name="action_audioencoding">Select Audio_Incoding</string>
+    <string name="user">Enter UserName</string>
+    <string name="usersend">Send</string>
     <string name="goto_root">..</string>
 
 </resources>

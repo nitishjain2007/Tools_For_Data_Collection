@@ -7,10 +7,10 @@
 
     <ImageView
         android:id="@+id/imageView1"
-        android:layout_width="206dp"
-        android:layout_height="401dp"
-        android:layout_marginLeft="52dp"
-        android:layout_marginTop="50dp"
+        android:layout_width="198dp"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="1"
         android:contentDescription="@string/front_image"
         android:src="@drawable/ic_launcher" />
 

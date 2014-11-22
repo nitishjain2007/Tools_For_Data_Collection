@@ -28,35 +28,41 @@ public final class R {
     public static final class drawable {
         public static final int border=0x7f020000;
         public static final int change=0x7f020001;
-        public static final int ic_launcher=0x7f020002;
-        public static final int play_button=0x7f020003;
-        public static final int record_button=0x7f020004;
-        public static final int stop=0x7f020005;
+        public static final int circle=0x7f020002;
+        public static final int ic_launcher=0x7f020003;
+        public static final int play_button=0x7f020004;
+        public static final int record_button=0x7f020005;
+        public static final int stop=0x7f020006;
     }
     public static final class id {
         public static final int action_alwaysplay=0x7f09000a;
-        public static final int action_samplerate=0x7f09000b;
-        public static final int button1=0x7f090004;
-        public static final int button2=0x7f090006;
-        public static final int button4=0x7f090007;
-        public static final int button5=0x7f090003;
+        public static final int action_alwaysrecord=0x7f09000b;
+        public static final int action_audioencoding=0x7f09000d;
+        public static final int action_samplerate=0x7f09000c;
+        public static final int button1=0x7f090009;
+        public static final int button2=0x7f090003;
+        public static final int button4=0x7f090004;
+        public static final int button5=0x7f090002;
         public static final int button6=0x7f090005;
+        public static final int edittext=0x7f090008;
         public static final int fileArea=0x7f090001;
-        public static final int imageView1=0x7f090009;
-        public static final int text1=0x7f090008;
-        public static final int textView2=0x7f090002;
+        public static final int imageView1=0x7f090007;
+        public static final int text1=0x7f090006;
         public static final int textview1=0x7f090000;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
         public static final int file_list_row=0x7f030001;
         public static final int frontpage=0x7f030002;
+        public static final int open_file=0x7f030003;
     }
     public static final class menu {
         public static final int main=0x7f080000;
     }
     public static final class string {
         public static final int action_alwaysplay=0x7f06000d;
+        public static final int action_alwaysrecord=0x7f06000e;
+        public static final int action_audioencoding=0x7f06000f;
         public static final int action_samplerate=0x7f06000b;
         public static final int app_name=0x7f060000;
         public static final int button1=0x7f060001;
@@ -69,8 +75,10 @@ public final class R {
         public static final int end=0x7f060008;
         public static final int filearea=0x7f06000a;
         public static final int front_image=0x7f06000c;
-        public static final int goto_root=0x7f06000e;
+        public static final int goto_root=0x7f060012;
         public static final int start=0x7f060009;
+        public static final int user=0x7f060010;
+        public static final int usersend=0x7f060011;
     }
     public static final class style {
         /** 
